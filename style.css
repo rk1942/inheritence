@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&family=Rubik+Iso&display=swap');
+body{
+  font-family: 'Rubik Iso', cursive;
+  color: blueviolet;
+  border: 2px solid red;
+}
